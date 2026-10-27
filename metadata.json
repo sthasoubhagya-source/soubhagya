@@ -1,0 +1,6 @@
+{
+  "name": "DevFolio - Modern Developer Portfolio",
+  "description": "A premium, modern, and responsive personal portfolio website for web developers and digital creators featuring dark/light themes, project showcases, skills cards, and interactive contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
